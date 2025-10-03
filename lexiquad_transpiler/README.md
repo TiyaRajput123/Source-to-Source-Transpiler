@@ -5,7 +5,6 @@ LexiQuad is a lightweight, modular transpiler that converts Python code to equiv
 > 🚀 Developed as a team project by B.Tech CSE students — for both learning and real-world utility.
 
 ---
-
 ## 🧠 Key Features
 
 - ✅ Translates variable assignments, arithmetic, `print()` and `input()`
