@@ -3,7 +3,6 @@
 LexiQuad is a lightweight, modular transpiler that converts Python code to equivalent JavaScript. Built using Python’s AST (Abstract Syntax Tree) module and Flask for the web UI, LexiQuad helps developers seamlessly translate backend logic into frontend JavaScript code.
 
 > 🚀 Developed as a team project by B.Tech CSE students — for both learning and real-world utility.
-
 ---
 ## 🧠 Key Features
 
